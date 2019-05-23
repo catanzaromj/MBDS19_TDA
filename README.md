@@ -9,17 +9,17 @@ in TDA.
 
 ## Persistent Homology
 For persistent homology, we use the
-[https://github.com/Ripser/ripser](Ripser) algorithm, a
+[Ripser](https://github.com/Ripser/ripser) algorithm, a
 very efficient C++ implementation of persistence.
 To simplify the presentation and make it easier to get started, 
-we rely on [https://live.ripser.org](live.ripser.org) for the actual
+we rely on [live.ripser.org](https://live.ripser.org) for the actual
 calculation.
 
 ## Mapper
-We use [https://github.com/scikit-tda/kepler-mapper](kepler-mapper) 
+We use [kepler-mapper](https://github.com/scikit-tda/kepler-mapper) 
 for our mapper implementation. Kepler-mapper is written in python,
 and easily combines with other machine learning packages,
-like [https://en.m.wikipedia.org/wiki/Scikit-learn](sci-kit learn) 
+like [sci-kit learn](https://en.m.wikipedia.org/wiki/Scikit-learn) 
 for example.
 
 
@@ -28,15 +28,15 @@ There are a variety of excellent and much more thorough tutorials available
 online by experts in the field. Some of the data sets in this tutorial
 are either motivated by or come directly from the following:
 
-* [https://github.com/henryadams/Charleston-TDA-ML/wiki](Charleston-TDA-ML).
+* [Charleston-TDA-ML](https://github.com/henryadams/Charleston-TDA-ML/wiki).
 A tutorial on Persistent Homology written by Henry Adams, 
 Melissa McGuirl, and Yitzchak Solomon.
 
-* [https://people.clas.ufl.edu/peterbubenik/intro-to-tda/](Peter Bubenik's TDA with R worksheet). A tutorial on using R to analyze data with Persistence Landscapes.
+* [Peter Bubenik's TDA with R worksheet](https://people.clas.ufl.edu/peterbubenik/intro-to-tda/). A tutorial on using R to analyze data with Persistence Landscapes.
 
-* [https://github.com/MatthewZabka/MAA-NCS18](MAA-NCS18). Matt Zabka's 
+* [MAA-NCS18](https://github.com/MatthewZabka/MAA-NCS18). Matt Zabka's 
 Persistence Homology tutorial.
 
-* [http://www.stat.cmu.edu/topstat/topstat_old/Talks/files/Jisu_150623_TDA_tutorial.pdf](R TDA tutorial). An R-TDA worksheet tutorial written by Jisu Kim.
+* [R-TDA tutorial](http://www.stat.cmu.edu/topstat/topstat_old/Talks/files/Jisu_150623_TDA_tutorial.pdf). An R-TDA worksheet tutorial written by Jisu Kim.
 
 This list is nowhere near complete, and there are lots of other great tutorials for learning TDA.
