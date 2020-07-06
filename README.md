@@ -19,7 +19,7 @@ calculation.
 We use [kepler-mapper](https://github.com/scikit-tda/kepler-mapper) 
 for our mapper implementation. Kepler-mapper is written in python,
 and easily combines with other machine learning packages,
-like [sci-kit learn](https://en.m.wikipedia.org/wiki/Scikit-learn) 
+like [scikit-learn](https://scikit-learn.org/stable/) 
 for example.
 
 
