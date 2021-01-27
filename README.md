@@ -4,8 +4,7 @@ A repository for a tutorial on Topological Data Analysis (TDA) for the Midwest
 Big Data Summer School in 2019 in Ames, Iowa.
 
 This tutorial covers persistent homology and mapper, 
-two of the main tools used
-in TDA. 
+two of the main tools used in TDA.   
 
 ## Persistent Homology
 For persistent homology, we use the
